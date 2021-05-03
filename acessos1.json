@@ -4,14 +4,18 @@
     {
       "id": "2020",
       "children": [
-        { "id": "Logistic regression" },
-        { "id": "Linear discriminant analysis" },
-        { "id": "Rules" },
-        { "id": "Decision trees" },
-        { "id": "Naive Bayes" },
-        { "id": "K nearest neighbor" },
-        { "id": "Probabilistic neural network" },
-        { "id": "Support vector machine" }
+        { "id": "H.JUBATUM 78" },
+        { "id": "V 10769" },
+        { "id": "BDZA 685" },
+        { "id": "BDZA 692" },
+        { "id": "BDZA 690" },
+        { "id": "BDZA 684" },
+        { "id": "BDZA 686" },
+        { "id": "RECLA 57" },
+        { "id": "BDZA 690" },
+        { "id": "RECLA 70" },
+        { "id": "RECLA 98" },
+        { "id": "RECLA 121" }
       ]
     },
     {
