@@ -2,7 +2,7 @@
   "id": "Acessos",
   "children": [
     {
-      "id": "Classification",
+      "id": "2020",
       "children": [
         { "id": "Logistic regression" },
         { "id": "Linear discriminant analysis" },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "id": "Regression",
+      "id": "Anos Anteriores",
       "children": [
         { "id": "Multiple linear regression" },
         { "id": "Partial least squares" },
