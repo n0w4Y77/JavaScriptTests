@@ -1,0 +1,41 @@
+{
+  "id": "Acessos",
+  "children": [
+    {
+      "id": "2020",
+      "children": [
+        { "id": "H.JUBATUM 78" },
+        { "id": "V 10769" },
+        { "id": "BDZA 685" },
+        { "id": "BDZA 692" },
+        { "id": "BDZA 690" },
+        { "id": "BDZA 684" },
+        { "id": "BDZA 686" },
+        { "id": "SUNBIRD" }
+      ]
+    },
+    {
+      "id": "2019",
+      "children": [
+        { "id": "H.JUBATUM 78" },
+        { "id": "V 10769" },
+        { "id": "BDZA 685" },
+        { "id": "BDZA 692" },
+        { "id": "BDZA 690" },
+        { "id": "BDZA 684" },
+        { "id": "BDZA 686" },
+        { "id": "SUNBIRD" }
+      ]
+    },
+    {
+      "id": "Anos Anteriores",
+      "children": [
+        { "id": "NE 20221-Z" },
+        { "id": "PALLAS" },
+        { "id": "A HOR 637/61" },
+        { "id": "CI 02224" },
+        { "id": "GRAY JD 462" }
+      ]
+    }
+  ]
+}
